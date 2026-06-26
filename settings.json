@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "KirbyXD34-V9z6.aternos.me",
-    "port": 40476,
+    "ip": "KirbyXD34-dHhw.aternos.me:30186",
+    "port": 30186,
     "version": "",
     "try-creative": false
   },
